@@ -1,1 +1,1 @@
-# newspaper-article-workshop-task
+# Newspaper article workshop task
