@@ -1,5 +1,5 @@
-$heading-typeface: Georgia, Times, 'Times New Roman', serif;
-$body-typeface: $heading-typeface;
+$body-typeface: Georgia, Times, 'Times New Roman', serif;
+$heading-typeface: $body-typeface;
 $color: #333333;
 
 @mixin selection {

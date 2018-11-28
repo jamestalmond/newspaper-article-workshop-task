@@ -2,11 +2,18 @@ import './SCSS/index';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import NewspaperArticle from './JS/components/NewspaperArticle';
+
+import Header from './JS/components/Header';
+import Content from './JS/components/Content';
+import Footer from './JS/components/Footer';
 
 function App() {
 	return (
-		<NewspaperArticle />
+		<React.Fragment>
+			<Header />
+			<Content />
+			<Footer />
+		</React.Fragment>
 	);
 }
 
